@@ -100,3 +100,7 @@ The project's well-structured codebase, with clear documentation and consistent 
 
 Conclusion:
 LearnHub successfully demonstrates how modern web standards can create engaging, accessible, and performant educational platforms. The project balances aesthetic appeal with functional utility while maintaining excellent code quality and development best practices.
+
+#OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/bb8e7921-af5b-4198-8ead-83ab85f2fcee)
